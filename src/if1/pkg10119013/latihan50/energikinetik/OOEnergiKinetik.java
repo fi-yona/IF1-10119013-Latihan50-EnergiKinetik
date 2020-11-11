@@ -83,6 +83,8 @@ public class OOEnergiKinetik {
         System.out.println("\t= " + energiKinetik + " Joule");
         System.out.println("b. W\t= 1/2 * massa bola * (kecepatan akhir kuadrat - kecepatan akhir kuadrat");
         System.out.println("\t= " + + usaha + " Joule");
+        System.out.println();
+        System.out.println("by. Fiona Avila");
     }
     
 }
